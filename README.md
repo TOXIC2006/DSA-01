@@ -19,12 +19,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/TOXIC2006/DSA-01/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/TOXIC2006/DSA-01/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/TOXIC2006/DSA-01/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/TOXIC2006/DSA-01/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quicksort
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/TOXIC2006/DSA-01/tree/master/0056-merge-intervals) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/TOXIC2006/DSA-01/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/TOXIC2006/DSA-01/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/TOXIC2006/DSA-01/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->

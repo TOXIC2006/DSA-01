@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/TOXIC2006/DSA-01/tree/master/0258-add-digits) |
+| [2974-minimum-number-game](https://github.com/TOXIC2006/DSA-01/tree/master/2974-minimum-number-game) |
 ## Number Theory
 |  |
 | ------- |
@@ -20,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/TOXIC2006/DSA-01/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TOXIC2006/DSA-01/tree/master/0215-kth-largest-element-in-an-array) |
+| [2974-minimum-number-game](https://github.com/TOXIC2006/DSA-01/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/TOXIC2006/DSA-01/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TOXIC2006/DSA-01/tree/master/0215-kth-largest-element-in-an-array) |
+| [2974-minimum-number-game](https://github.com/TOXIC2006/DSA-01/tree/master/2974-minimum-number-game) |
 ## Quicksort
 |  |
 | ------- |
@@ -37,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/TOXIC2006/DSA-01/tree/master/0215-kth-largest-element-in-an-array) |
+| [2974-minimum-number-game](https://github.com/TOXIC2006/DSA-01/tree/master/2974-minimum-number-game) |
 ## Quickselect
 |  |
 | ------- |

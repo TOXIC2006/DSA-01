@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/TOXIC2006/DSA-01/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/TOXIC2006/DSA-01/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TOXIC2006/DSA-01/tree/master/0215-kth-largest-element-in-an-array) |
 | [2974-minimum-number-game](https://github.com/TOXIC2006/DSA-01/tree/master/2974-minimum-number-game) |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/TOXIC2006/DSA-01/tree/master/0177-nth-highest-salary) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/TOXIC2006/DSA-01/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->

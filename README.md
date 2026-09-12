@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/TOXIC2006/DSA-01/tree/master/0258-add-digits) |
 | [0523-continuous-subarray-sum](https://github.com/TOXIC2006/DSA-01/tree/master/0523-continuous-subarray-sum) |
+| [2652-sum-multiples](https://github.com/TOXIC2006/DSA-01/tree/master/2652-sum-multiples) |
 ## Simulation
 |  |
 | ------- |

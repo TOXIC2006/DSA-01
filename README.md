@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/TOXIC2006/DSA-01/tree/master/0002-add-two-numbers) |
 | [0258-add-digits](https://github.com/TOXIC2006/DSA-01/tree/master/0258-add-digits) |
 | [0523-continuous-subarray-sum](https://github.com/TOXIC2006/DSA-01/tree/master/0523-continuous-subarray-sum) |
 | [2652-sum-multiples](https://github.com/TOXIC2006/DSA-01/tree/master/2652-sum-multiples) |
@@ -78,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/TOXIC2006/DSA-01/tree/master/0523-continuous-subarray-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/TOXIC2006/DSA-01/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/TOXIC2006/DSA-01/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

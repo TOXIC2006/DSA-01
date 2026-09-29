@@ -83,8 +83,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/TOXIC2006/DSA-01/tree/master/0002-add-two-numbers) |
+| [0061-rotate-list](https://github.com/TOXIC2006/DSA-01/tree/master/0061-rotate-list) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/TOXIC2006/DSA-01/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0061-rotate-list](https://github.com/TOXIC2006/DSA-01/tree/master/0061-rotate-list) |
 <!---LeetCode Topics End-->

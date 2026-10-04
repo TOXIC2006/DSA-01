@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/TOXIC2006/DSA-01/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/TOXIC2006/DSA-01/tree/master/0215-kth-largest-element-in-an-array) |
 | [0523-continuous-subarray-sum](https://github.com/TOXIC2006/DSA-01/tree/master/0523-continuous-subarray-sum) |
+| [0739-daily-temperatures](https://github.com/TOXIC2006/DSA-01/tree/master/0739-daily-temperatures) |
 | [2974-minimum-number-game](https://github.com/TOXIC2006/DSA-01/tree/master/2974-minimum-number-game) |
 ## Sorting
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/TOXIC2006/DSA-01/tree/master/0739-daily-temperatures) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TOXIC2006/DSA-01/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Database
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/TOXIC2006/DSA-01/tree/master/0061-rotate-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/TOXIC2006/DSA-01/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

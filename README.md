@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/TOXIC2006/DSA-01/tree/master/0387-first-unique-character-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/TOXIC2006/DSA-01/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TOXIC2006/DSA-01/tree/master/0001-two-sum) |
+| [0387-first-unique-character-in-a-string](https://github.com/TOXIC2006/DSA-01/tree/master/0387-first-unique-character-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/TOXIC2006/DSA-01/tree/master/0523-continuous-subarray-sum) |
 ## Prefix Sum
 |  |
@@ -101,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0503-next-greater-element-ii](https://github.com/TOXIC2006/DSA-01/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/TOXIC2006/DSA-01/tree/master/0739-daily-temperatures) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/TOXIC2006/DSA-01/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/TOXIC2006/DSA-01/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

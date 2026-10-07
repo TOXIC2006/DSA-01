@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/TOXIC2006/DSA-01/tree/master/0215-kth-largest-element-in-an-array) |
 | [0503-next-greater-element-ii](https://github.com/TOXIC2006/DSA-01/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/TOXIC2006/DSA-01/tree/master/0523-continuous-subarray-sum) |
+| [0704-binary-search](https://github.com/TOXIC2006/DSA-01/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/TOXIC2006/DSA-01/tree/master/0739-daily-temperatures) |
 | [2974-minimum-number-game](https://github.com/TOXIC2006/DSA-01/tree/master/2974-minimum-number-game) |
 ## Sorting
@@ -120,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/TOXIC2006/DSA-01/tree/master/0409-longest-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/TOXIC2006/DSA-01/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

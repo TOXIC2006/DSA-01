@@ -1,0 +1,80 @@
+767. Reorganize String
+Given a string s, rearrange the characters of s so that any two adjacent characters are not the same.
+
+Return any possible rearrangement of s or return "" if not possible.
+
+ 
+
+Example 1:
+
+Input: s = "aab"
+Output: "aba"
+Example 2:
+
+Input: s = "aaab"
+Output: ""
+ 
+
+Constraints:
+
+1 <= s.length <= 500
+s consists of lowercase English letters.
+
+-------------------------------------------------------------------
+--------------------------------------------------------------------
+soloution class Solution {
+    public String reorganizeString(String s) {
+       PriorityQueue<Pair> pq = new PriorityQueue<>(
+            (a, b) -> {if(a.fre!=b.fre){
+                 return b.fre-a.fre;
+            }
+            return b.ele- a.ele;
+    }); 
+        int n=s.length();
+
+        HashMap< Character,Integer> map = new HashMap<>();
+
+        for( int i=0;i<n;i++){
+             char ch= s.charAt(i);
+             map.put(ch,map.getOrDefault(ch,0)+1);
+        }
+        for( var e: map.entrySet()){
+              Pair pair= new Pair(e.getValue(),e.getKey());
+              pq.add(pair);
+        }
+        Pair prev = null;
+        String ans="";
+           int count=0;
+         while (!pq.isEmpty()) {
+           Pair elem = pq.remove();
+
+          if (count == 0 || ans.charAt(count - 1) != elem.ele) {
+           ans = ans + elem.ele;
+            elem.fre--;
+
+          if (prev != null && prev.fre > 0) {
+            pq.offer(prev);
+        }
+
+           prev = elem;
+           count++;
+          } else {
+             pq.offer(elem); 
+            break;         
+        }
+        }
+
+     if (count == n) {
+        return ans;
+      }
+       return "";
+    }
+     static class Pair {
+              int  fre;
+              char ele;
+              Pair( int f,char c){
+                fre=f;
+                ele= c;
+              }
+    }
+}

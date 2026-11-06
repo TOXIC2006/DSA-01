@@ -1,45 +1,43 @@
 class Solution {
-    public int[] dailyTemperatures(int[] temperatures) {
-        Stack<Pair> st= new Stack<>();
-         int n= temperatures.length;
+    public int[] dailyTemperatures(int[] temp) {
+         Stack<Pair> st= new Stack<>();
+          int n= temp.length;
+           int i= n-2;
+             int  ans[]= new int[n];
 
-          int i= n-2;
-          
-          Pair la= new Pair(temperatures[n-1],n-1);
-          st.push(la);
+            ans[n-1]= 0;
+             Pair p= new Pair(temp[n-1], n-1 );
 
-          int ans[]= new  int[n];
-          ans[n-1]=0;
-          if (n == 0) return new int[0];
-        
-          while(i>=0){
-             if(!st.isEmpty() && temperatures[i]<st.peek().num){
-                  ans[i]=st.peek().index-i;
-                   Pair a= new Pair(temperatures[i],i);
-                   st.push(a);
-                   i--;
-
-             }else{
-                 if(st.isEmpty()){
-                    ans[i]=0;
-                    Pair p= new Pair(temperatures[i],i);
-                    st.push(p);
+            st.add(p);
+            while(i>=0){
+                 if(!st.isEmpty() && st.peek().val>temp[i]){
+                     ans[i]=st.peek().index-i;
+                     Pair pa= new Pair(temp[i], i );
+                     st.add(pa);
                      i--;
                  }else{
-                    st.pop();
-                 }
-             }
+                    if(st.isEmpty()){
+                        ans[i]=0;
+                       Pair em= new Pair(temp[i], i );
+                       st.add(em);
+                       i--;
+                    }else{
+                         st.pop();
+                    }
 
-            
-          }
-          return ans;
+                 }
+            }
+             return ans;
+
+        
     }
-    static class  Pair{
-         int num;
-         int index;
-          Pair( int x, int y){
-             num=x;
-             index=y;
-          }
+    static   class  Pair{
+         int val;
+          int  index;
+
+           Pair( int v, int in){
+               val= v;
+                index= in;
+           }
     }
 }
